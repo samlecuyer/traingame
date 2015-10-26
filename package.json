@@ -1,0 +1,15 @@
+{
+  "name": "traingame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.4.0",
+    "lodash": "^3.10.1"
+  }
+}
